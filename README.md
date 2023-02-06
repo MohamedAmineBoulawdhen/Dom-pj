@@ -40,6 +40,3 @@ By completing this project, you will have a portfolio piece to showcase your abi
 
 If you need any help or have any questions, feel free to reach out to me.
 
-## Star this repository
-
-Don't forget to star this repository ⭐️ after you've finished the project. Your support is greatly appreciated!
